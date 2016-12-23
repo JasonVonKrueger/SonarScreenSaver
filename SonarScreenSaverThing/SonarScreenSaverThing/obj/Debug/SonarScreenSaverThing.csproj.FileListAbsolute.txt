@@ -1,0 +1,3 @@
+C:\Users\rpoore\Documents\Visual Studio 2015\Projects\SonarScreenSaverThing\SonarScreenSaverThing\bin\Debug\SonarScreenSaverThing.exe.config
+C:\Users\rpoore\Documents\Visual Studio 2015\Projects\SonarScreenSaverThing\SonarScreenSaverThing\obj\Debug\SonarScreenSaverThing.exe
+C:\Users\rpoore\Documents\Visual Studio 2015\Projects\SonarScreenSaverThing\SonarScreenSaverThing\obj\Debug\SonarScreenSaverThing.pdb
