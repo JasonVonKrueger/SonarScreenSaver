@@ -6,9 +6,10 @@ For the Aruino and SR04, I'm using the NewPing library which can be found here:
 http://playground.arduino.cc/Code/NewPing
 
 Pinout:
-echo_pin > D8
-trigger_pin > D9
-VCC > 5V
+
+echo_pin > D8 <br />
+trigger_pin > D9 <br />
+VCC > 5V <br />
 GND > GND
 
 
